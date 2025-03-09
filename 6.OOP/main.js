@@ -33,3 +33,4 @@ class User {
 
 const user1 = new User("Hiếu1111111111111", 2011111);
 user1.xinChao();
+user1.xinChao();
